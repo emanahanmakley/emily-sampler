@@ -3,6 +3,8 @@ Thumbs.db
 
 # Built binaries
 hello_world
+colors
+save_the_neighbor
 *.o
 
 # Packages
