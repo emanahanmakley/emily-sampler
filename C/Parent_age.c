@@ -22,6 +22,7 @@ int main()
     {
         printf("Your parent will be twice as old as you when they are %d years old.\n", parentdouble(parent_age));
     }
+    return 0;
 }
 
 int parentdouble(int x)

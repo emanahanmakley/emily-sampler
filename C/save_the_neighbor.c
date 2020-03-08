@@ -45,4 +45,5 @@ int main()
     {
         printf("I can't believe you would leave a 4 year old alone!\n GAME OVER\n");
     }
+    return 0;
 }
